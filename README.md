@@ -38,8 +38,8 @@ Languages & Tools
 </details>
 <br>
 🛒 Featured Project
-<a href="https://github.com/YOUR_USERNAME/CartFlow" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=CartFlow&theme=dracula" />
+<a href="https://github.com/Ahm3dHegazy/CartFlow" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahm3dHegazy&repo=CartFlow&theme=dracula" />
 </a>
 <div align="center">
 Show some ❤️ by starring the repo!
