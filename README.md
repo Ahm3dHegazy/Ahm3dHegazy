@@ -34,7 +34,7 @@ Languages & Tools
 <hr>
 <details>
 <summary>📈 My GitHub Stats</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gotham" alt="GitHub Stats" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ahm3dHegazy&show_icons=true&theme=gotham" alt="GitHub Stats" /> </p>
 </details>
 <br>
 🛒 Featured Project
