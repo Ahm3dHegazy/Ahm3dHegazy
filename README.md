@@ -128,8 +128,6 @@ SQL Server • Entity Framework Core
 # 📊 GitHub Stats
 
 
----
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Ahm3dHegazy&theme=tokyonight&hide_border=true"/>
