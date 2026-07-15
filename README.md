@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Ahmed Abdel Samie Hegazy
+# Hi 👋, I'm Ahmed Abdel-Samثe Hegazy
 
 ### Backend .NET Developer | ASP.NET Core | C# | SQL Server
 
