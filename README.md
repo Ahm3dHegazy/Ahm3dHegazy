@@ -1,113 +1,135 @@
 <p align="center">
-  <img src="images/banner.svg" width="800" alt="Hussain Abbas - Director of Engineering" />
+  <h1 align="center">Hi 👋, I'm Ahmed Abdel Samie Hegazy</h1>
+  <h3 align="center">ASP.NET Core Backend Developer | C# | SQL Server | Clean Architecture</h3>
 </p>
 
-<img src="images/me.jpg" align="right" />
+---
 
-My name is Hussain Abbas, and I go by `hussainweb` online in most places. Over the past two decades, I have built and, more importantly, helped others build computer programs and scalable systems.
+## 👨‍💻 About Me
 
-I work as a **Director of Engineering**, focusing heavily on Developer Experience (DevEx), Platform Engineering, DevOps, and exploring AI-native workflows. I contribute to open-source software out of my own interest and as part of my work. 
+I'm a Backend Developer passionate about building scalable web applications using **ASP.NET Core** and modern software engineering practices.
 
-I have a [longer README](https://hussainweb.github.io/README/) if you are interested in more about my management and working style. You can also explore my [overall timeline](https://hussainweb.me/changelog), the [tools I use](https://hussainweb.me/uses/), and my writing on my [personal blog](https://hussainweb.me).
+Currently, I'm focused on improving my backend development skills through real-world projects, open-source contributions, and continuous learning.
+
+### 🌱 Currently Learning
+
+- ASP.NET Core
+- Entity Framework Core
+- Clean Architecture
+- SOLID Principles
+- Design Patterns
+- Authentication & Authorization
+- REST APIs
+- Docker
+- CI/CD
+- System Design fundamentals
 
 ---
 
-## Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Generating Semantic Note Filenames: Taming Local LLMs with Ollama and Gemma 4](https://hussainweb.me/blog/generating-semantic-note-filenames/)
-- [Finding My Perfect PKM Fit: The Journey from Logseq to Obsidian](https://hussainweb.me/blog/pkm-migration-logseq-obsidian-tolaria/)
-- [Moving Development to the Cloud: The AI-First Home Server](https://hussainweb.me/blog/moving-dev-to-proxmox-ai-agents/)
-- [Winning the AWS Jam Toronto: An Unexpected Journey](https://hussainweb.me/blog/aws-jam-toronto-2026/)
-- [How I Saved My Immich Installation from a Broken PostgreSQL Upgrade on TrueNAS](https://hussainweb.me/blog/truenas-immich-postgres-upgrade/)
-<!-- BLOG-POST-LIST:END -->
+## 🚀 Current Project
+
+### 🛒 CartFlow
+
+A modern E-Commerce platform built with ASP.NET Core MVC.
+
+Some features I've worked on:
+
+- Product Search
+- Wishlist
+- Shopping Cart
+- Google Authentication
+- Reviews & Ratings
+- AJAX Search
+- Responsive UI
+- Product Details
+- Authentication & Authorization
 
 ---
 
-## Statistics
+## 🛠 Tech Stack
+
+### Backend
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge)
+
+### Database
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Frontend
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Tools
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📚 Currently Exploring
+
+- Clean Code
+- Design Patterns
+- CQRS
+- MediatR
+- Dependency Injection
+- Caching
+- Authentication
+- Authorization
+- Azure
+- Docker
+- CI/CD
+- Unit Testing
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=hussainweb&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="Hussain's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hussainweb&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="Hussain's Top Languages" height="180" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## Let's Connect
+## 🎯 2026 Goals
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussainweb/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/user/hussainweb)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/hussainweb)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hussain.web/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hussainweb)
-[![GitLab](https://img.shields.io/badge/GitLab-%23330F63.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/hussainweb)
-[![Drupal](https://img.shields.io/badge/Drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)](https://www.drupal.org/u/hussainweb)
-
-## Skills & Expertise
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-**🎯 Leadership & Strategy**
-<br/>
-[![DevEx](https://img.shields.io/badge/Developer_Experience-FF69B4?style=for-the-badge&logo=dev.to&logoColor=white)](https://hussainweb.me/)
-[![Platform Engineering](https://img.shields.io/badge/Platform_Engineering-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://hussainweb.me/)
-[![Mentoring](https://img.shields.io/badge/Mentoring-00BFA5?style=for-the-badge&logo=google-classroom&logoColor=white)](https://hussainweb.me/)
-[![Architecture](https://img.shields.io/badge/Architecture-FFD700?style=for-the-badge&logo=diagrams.net&logoColor=black)](https://hussainweb.me/)
-
-<br/>
-
-**☁️ Cloud & Infrastructure**
-<br/>
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
-
-</td>
-<td valign="top" width="50%">
-
-**💻 Languages & Frameworks**
-<br/>
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://en.wikipedia.org/wiki/JavaScript)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
-[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Laravel](https://img.shields.io/badge/laravel-%23ff2d20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
-
-<br/>
-
-**🤖 AI & Agentic Workflows**
-<br/>
-[![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
-[![ADK](https://img.shields.io/badge/ADK-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://adk.dev/)
-
-<br/>
-
-**🛠️ Other Tools**
-<br/>
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Drupal](https://img.shields.io/badge/Drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)](https://www.drupal.org/)
-
-</td>
-</tr>
-</table>
-
-## Previously Worked With
-
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](http://csharp.net/)
-[![VB.NET](https://img.shields.io/badge/VB.NET-%23004880.svg?style=for-the-badge&logo=visual-basic&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
-[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-[![WordPress](https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.org/)
+- Build production-ready ASP.NET Core applications
+- Contribute to Open Source
+- Learn Docker & Kubernetes
+- Learn Azure
+- Master Clean Architecture
+- Improve System Design skills
+- Land a Backend .NET Developer position
 
 ---
 
-<p align="center">
-  <a href="https://youtu.be/UqNbBe3lVCI">🎥 How did I build this profile?</a>
-</p>
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB)
+
+---
+
+> "The best way to learn is by building real projects."
