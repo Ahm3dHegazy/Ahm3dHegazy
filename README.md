@@ -1,135 +1,203 @@
-<p align="center">
-  <h1 align="center">Hi 👋, I'm Ahmed Abdel Samie Hegazy</h1>
-  <h3 align="center">ASP.NET Core Backend Developer | C# | SQL Server | Clean Architecture</h3>
+<div align="center">
+
+# Hi 👋, I'm Ahmed Abdel Samie Hegazy
+
+### Backend .NET Developer | ASP.NET Core | C# | SQL Server
+
+<p>
+Passionate about building scalable backend applications, solving real-world problems, and continuously improving through hands-on projects and modern software engineering practices.
 </p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Abdel_Samie-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-abdelsamie77/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ahm3dHegazy-181717?style=for-the-badge&logo=github)](https://github.com/Ahm3dHegazy)
+
+</div>
+
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a Backend Developer passionate about building scalable web applications using **ASP.NET Core** and modern software engineering practices.
+I'm a Backend .NET Developer from Egypt with a strong passion for software engineering and backend development.
 
-Currently, I'm focused on improving my backend development skills through real-world projects, open-source contributions, and continuous learning.
+I enjoy designing clean, maintainable applications using ASP.NET Core while continuously improving my knowledge of architecture, design patterns, databases, and scalable systems.
 
-### 🌱 Currently Learning
+I'm always looking for opportunities to learn, build, and collaborate on meaningful projects.
 
-- ASP.NET Core
-- Entity Framework Core
+---
+
+# 🚀 Current Focus
+
+- Building production-ready ASP.NET Core applications
 - Clean Architecture
 - SOLID Principles
-- Design Patterns
-- Authentication & Authorization
+- Entity Framework Core
 - REST APIs
-- Docker
-- CI/CD
-- System Design fundamentals
+- Authentication & Authorization
+- Performance Optimization
+- System Design Fundamentals
+- Docker & CI/CD
+- Cloud Technologies (Azure)
 
 ---
 
-## 🚀 Current Project
+# 🛒 Featured Project
 
-### 🛒 CartFlow
+## CartFlow
 
 A modern E-Commerce platform built with ASP.NET Core MVC.
 
-Some features I've worked on:
+### Features
 
-- Product Search
-- Wishlist
-- Shopping Cart
+- User Authentication
 - Google Authentication
-- Reviews & Ratings
-- AJAX Search
+- Shopping Cart
+- Wishlist
+- Product Search
+- Product Reviews & Ratings
+- AJAX Live Search
 - Responsive UI
-- Product Details
-- Authentication & Authorization
+- Entity Framework Core
+- SQL Server
+- ASP.NET Identity
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Backend
+## Backend
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge)
+<p>
 
-### Database
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+</p>
 
-### Frontend
+## Frontend
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<p>
 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</p>
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+## Database
 
-### Tools
+<p>
 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</p>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+SQL Server • Entity Framework Core
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## Tools
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p>
 
----
-
-## 📚 Currently Exploring
-
-- Clean Code
-- Design Patterns
-- CQRS
-- MediatR
-- Dependency Injection
-- Caching
-- Authentication
-- Authorization
-- Azure
-- Docker
-- CI/CD
-- Unit Testing
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 
 </p>
 
 ---
 
-## 🎯 2026 Goals
+# 📚 Currently Learning
 
-- Build production-ready ASP.NET Core applications
-- Contribute to Open Source
+- ASP.NET Core Advanced
+- Clean Architecture
+- Design Patterns
+- Dependency Injection
+- Authentication & Authorization
+- Caching
+- Docker
+- Azure
+- CI/CD
+- System Design
+
+---
+
+# 🤖 AI Assisted Development
+
+I actively use AI-powered development tools to improve productivity, explore ideas, debug problems, and accelerate learning.
+
+### Tools
+
+- GitHub Copilot
+- ChatGPT
+- Claude AI
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahm3dHegazy&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahm3dHegazy&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ahm3dHegazy&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahm3dHegazy&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- Build enterprise-level ASP.NET Core applications
+- Master Clean Architecture
+- Master Entity Framework Core
 - Learn Docker & Kubernetes
 - Learn Azure
-- Master Clean Architecture
+- Contribute to Open Source
 - Improve System Design skills
-- Land a Backend .NET Developer position
+- Land a Backend .NET Developer role
 
 ---
 
-## 🤝 Let's Connect
+# 💡 Engineering Principles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB)
+- Write clean and maintainable code.
+- Keep learning every day.
+- Solve problems before writing code.
+- Build projects that create real value.
+- Focus on software engineering, not only programming.
 
 ---
 
-> "The best way to learn is by building real projects."
+# 📫 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/ahmed-abdelsamie77">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/Ahm3dHegazy">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### *"First, solve the problem. Then, write the code."* – John Johnson
+
+⭐ Thanks for visiting my profile!
+
+</div>
