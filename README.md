@@ -31,7 +31,7 @@ I'm always looking for opportunities to learn, build, and collaborate on meaning
 
 ---
 
-# 🚀 Current Focus
+#  Current Focus
 
 - Building production-ready ASP.NET Core applications
 - Clean Architecture
@@ -71,7 +71,7 @@ https://github.com/Ahm3dHegazy/E-commerce-App
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ## Backend
 
@@ -109,7 +109,7 @@ SQL Server • Entity Framework Core
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
 - ASP.NET Core Advanced
 - Clean Architecture
@@ -124,17 +124,6 @@ SQL Server • Entity Framework Core
 
 ---
 
-# 🤖 AI Assisted Development
-
-I actively use AI-powered development tools to improve productivity, explore ideas, debug problems, and accelerate learning.
-
-### Tools
-
-- GitHub Copilot
-- ChatGPT
-- Claude AI
-
----
 
 # 📊 GitHub Stats
 
@@ -164,28 +153,6 @@ I actively use AI-powered development tools to improve productivity, explore ide
 
 ---
 
-# 🎯 2026 Goals
-
-- Build enterprise-level ASP.NET Core applications
-- Master Clean Architecture
-- Master Entity Framework Core
-- Learn Docker & Kubernetes
-- Learn Azure
-- Contribute to Open Source
-- Improve System Design skills
-- Land a Backend .NET Developer role
-
----
-
-# 💡 Engineering Principles
-
-- Write clean and maintainable code.
-- Keep learning every day.
-- Solve problems before writing code.
-- Build projects that create real value.
-- Focus on software engineering, not only programming.
-
----
 
 # 📫 Connect With Me
 
