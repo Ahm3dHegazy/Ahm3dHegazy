@@ -8,8 +8,14 @@
 Passionate about building scalable backend applications, solving real-world problems, and continuously improving through hands-on projects and modern software engineering practices.
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Abdel_Samie-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-abdelsamie77/)
-[![GitHub](https://img.shields.io/badge/GitHub-Ahm3dHegazy-181717?style=for-the-badge&logo=github)](https://github.com/Ahm3dHegazy)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-abdelsamie77/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ahm3dHegazy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
