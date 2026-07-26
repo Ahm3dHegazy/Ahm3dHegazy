@@ -53,7 +53,7 @@ I'm always looking for opportunities to learn, build, and collaborate on meaning
 A full-featured **ASP.NET Core MVC** e-commerce application designed with scalability, clean architecture principles, and a seamless user experience in mind.
 
 🔗 **Repository:**  
-https://github.com/Ahm3dHegazy/E-commerce-App
+https://github.com/Ahm3dHegazy/ecommerce-app
 
 ### Features
 
